@@ -3,6 +3,7 @@ This cheat sheet features the most important and commonly used Git commands for 
 
 ## Index
   - [SETUP](#setup)
+  - [UNSET](#unset)
   - [SETUP \& INIT](#setup--init)
   - [STAGE \& SNAPSHOT](#stage--snapshot)
   - [BRANCH \& MERGE](#branch--merge)
@@ -31,6 +32,21 @@ Configuring user information used across all local repositories
 - Set automatic command line **coloring for Git** for easy reviewing
   ```bash
   git config --global color.ui auto
+  ```
+
+<br>
+
+## UNSET
+Removes user information configuration across all local repositories
+
+- **UnSet a name**
+  ```bash
+  git config --global --unset user.name
+  ```
+
+- **UnSet an email address**
+  ```bash
+  git config --global --unset user.email
   ```
 
 <br>
