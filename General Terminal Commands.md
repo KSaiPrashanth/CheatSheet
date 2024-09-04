@@ -6,7 +6,7 @@
 
 <h2>Table of Contents</h2>
 
-- [General Commands](#general-commands)
+- [**General Commands**](#general-commands)
   - [**1. Navigation**](#1-navigation)
   - [**2. File Operations**](#2-file-operations)
   - [**3. System Information**](#3-system-information)
