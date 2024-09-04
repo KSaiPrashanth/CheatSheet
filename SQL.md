@@ -1,20 +1,17 @@
-
-![header](/images/SQL%20Cheat%20Sheet.webp)
-
----
+## SQL Cheat Sheet
+Here's a quick SQL cheat sheet to help with common tasks:
 
 ### Table of Contents
 
-- [**SQL Cheat Sheet**](#sql-cheat-sheet)
-  - [**1. Basic SQL Syntax**](#1-basic-sql-syntax)
-  - [**2. Aggregate Functions**](#2-aggregate-functions)
-  - [**3. Grouping Data**](#3-grouping-data)
-  - [**4. Joins**](#4-joins)
-  - [**5. Subqueries**](#5-subqueries)
-  - [**6. Data Manipulation**](#6-data-manipulation)
-  - [**7. Table Management**](#7-table-management)
+- [**1. Basic SQL Syntax**](#1-basic-sql-syntax)
+- [**2. Aggregate Functions**](#2-aggregate-functions)
+- [**3. Grouping Data**](#3-grouping-data)
+- [**4. Joins**](#4-joins)
+- [**5. Subqueries**](#5-subqueries)
+- [**6. Data Manipulation**](#6-data-manipulation)
+- [**7. Table Management**](#7-table-management)
 
-## SQL Cheat Sheet
+---
 
 ### **1. Basic SQL Syntax**
 
