@@ -8,5 +8,6 @@
 3. [JavaScript](/JavaScript.md)
 4. [Python](/Python.md)
 5. [Flask](/Flask.md)
+6. [SQL](/SQL.md)
 
 ---
