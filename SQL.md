@@ -1,4 +1,4 @@
-## SQL Cheat Sheet
+# SQL Cheat Sheet
 Here's a quick SQL cheat sheet to help with common tasks:
 
 ### Table of Contents
