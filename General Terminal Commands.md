@@ -1,8 +1,5 @@
 ## General Commands
-
-![header](/images/terminal%20commands%20cheat%20sheet.png)
-
----
+Here's a cheat sheet with some common terminal commands for Windows, macOS, and Linux:
 
 ### Table of Contents
 
