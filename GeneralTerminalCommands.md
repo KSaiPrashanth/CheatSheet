@@ -1,4 +1,4 @@
-## General Commands
+# General Commands
 Here's a cheat sheet with some common terminal commands for Windows, macOS, and Linux:
 
 ### Table of Contents
