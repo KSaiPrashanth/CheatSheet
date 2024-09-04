@@ -5,7 +5,7 @@
 
 ### Table of Contents
 
-- [Flask Cheat Sheet](#flask-cheat-sheet)
+- [**Flask Cheat Sheet**](#flask-cheat-sheet)
   - [**1. Basic Setup**](#1-basic-setup)
   - [**2. Routing**](#2-routing)
   - [**3. HTTP Methods**](#3-http-methods)
