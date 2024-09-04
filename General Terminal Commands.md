@@ -1,24 +1,23 @@
+## General Commands
 
-
-![header](/images/terminal%20commands%20cheat%20sheet.webp)
+![header](/images/terminal%20commands%20cheat%20sheet.png)
 
 ---
 
-<h2>Table of Contents</h2>
+### Table of Contents
 
-- [**General Commands**](#general-commands)
-  - [**1. Navigation**](#1-navigation)
-  - [**2. File Operations**](#2-file-operations)
-  - [**3. System Information**](#3-system-information)
-  - [**4. Network Operations**](#4-network-operations)
-  - [**5. Disk Operations**](#5-disk-operations)
-  - [**6. Text Editing**](#6-text-editing)
-  - [**7. User Management**](#7-user-management)
-  - [**8. Permissions**](#8-permissions)
-  - [**9. Searching**](#9-searching)
-  - [**10. Miscellaneous**](#10-miscellaneous)
+- [**1. Navigation**](#1-navigation)
+- [**2. File Operations**](#2-file-operations)
+- [**3. System Information**](#3-system-information)
+- [**4. Network Operations**](#4-network-operations)
+- [**5. Disk Operations**](#5-disk-operations)
+- [**6. Text Editing**](#6-text-editing)
+- [**7. User Management**](#7-user-management)
+- [**8. Permissions**](#8-permissions)
+- [**9. Searching**](#9-searching)
+- [**10. Miscellaneous**](#10-miscellaneous)
 
-## General Commands
+---
 
 ### **1. Navigation**
 | Task                       | Windows         | macOS/Linux   |
