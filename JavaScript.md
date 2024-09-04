@@ -1,27 +1,24 @@
+## JavaScript Cheat Sheet
+Here’s a handy JavaScript cheat sheet with some common concepts and syntax.
 
-![header](/images/JavaScript%20Cheat%20Sheet.webp)
+### Table of Contents
+
+- [**1. Variables**](#1-variables)
+- [**2. Data Types**](#2-data-types)
+- [**3. Operators**](#3-operators)
+- [**4. Functions**](#4-functions)
+- [**5. Control Structures**](#5-control-structures)
+- [**6. Arrays**](#6-arrays)
+- [**7. Objects**](#7-objects)
+- [**8. DOM Manipulation**](#8-dom-manipulation)
+- [**9. Events**](#9-events)
+- [**10. Promises**](#10-promises)
+- [**11. Fetch API**](#11-fetch-api)
+- [**12. Async/Await**](#12-asyncawait)
+- [**13. Error Handling**](#13-error-handling)
+- [**14. ES6+ Features**](#14-es6-features)
 
 ---
-
-<h2>Table of Contents</h2>
-
-- [**JavaScript Cheat Sheet**](#javascript-cheat-sheet)
-  - [**1. Variables**](#1-variables)
-  - [**2. Data Types**](#2-data-types)
-  - [**3. Operators**](#3-operators)
-  - [**4. Functions**](#4-functions)
-  - [**5. Control Structures**](#5-control-structures)
-  - [**6. Arrays**](#6-arrays)
-  - [**7. Objects**](#7-objects)
-  - [**8. DOM Manipulation**](#8-dom-manipulation)
-  - [**9. Events**](#9-events)
-  - [**10. Promises**](#10-promises)
-  - [**11. Fetch API**](#11-fetch-api)
-  - [**12. Async/Await**](#12-asyncawait)
-  - [**13. Error Handling**](#13-error-handling)
-  - [**14. ES6+ Features**](#14-es6-features)
-
-## JavaScript Cheat Sheet
 
 ### **1. Variables**
 - **Declare variables:**
