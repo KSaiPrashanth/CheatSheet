@@ -5,7 +5,7 @@
 
 <h2>Table of Contents</h2>
 
-- [JavaScript Cheat Sheet](#javascript-cheat-sheet)
+- [**JavaScript Cheat Sheet**](#javascript-cheat-sheet)
   - [**1. Variables**](#1-variables)
   - [**2. Data Types**](#2-data-types)
   - [**3. Operators**](#3-operators)
